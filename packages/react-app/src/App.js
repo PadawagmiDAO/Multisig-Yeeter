@@ -570,7 +570,7 @@ function App() {
                     <CopyToast toCopy={config.gnosisSafe} />
                   </Flex>
                 ) : (
-                  <Text color={config.mainColor}>Done. LFG</Text>
+                  <Text color={config.mainColor}>0x6032DEd1D330d0672253BDfC9a56C971DeE0683F</Text>
                 )}
               </Flex>
             </Box>
